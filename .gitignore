@@ -1,3 +1,9 @@
+# These ignores were created by Alire.
+/obj/
+/lib/
+/alire/
+/config/
+
 # Object file
 *.o
 

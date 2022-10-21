@@ -1,2 +1,4 @@
-# tulis
-A TLS implementation in SPARK/Ada
+Tulis
+=====
+
+A TLS implementation in SPARK/Ada.
