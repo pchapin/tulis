@@ -1,7 +1,7 @@
 name = "tulis"
-description = "Shiny new project"
+description = "A SPARK/Ada implementation of TLS"
 version = "0.1.0-dev"
 
 authors = ["Peter Chapin"]
-maintainers = ["Peter Chapin <peter@pchapin.org>"]
+maintainers = ["Peter Chapin <spicacality@kelseymountain.org>"]
 maintainers-logins = ["pchapin"]
